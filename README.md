@@ -1,5 +1,7 @@
 # KitoNetKit
 
+**[Documentation](https://wyksofts-inc.github.io/KitoNetKit/documentation/kitonetkit/)**
+
 Simulates offline, high-latency, timeout, and forced-error-response network
 conditions inside a running app, per endpoint, without touching the backend.
 **Debug/QA tooling — never link into a release build.** See
